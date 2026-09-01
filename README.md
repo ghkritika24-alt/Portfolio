@@ -1,6 +1,5 @@
 #  Personal Portfolio Website
 
-##  Developer
 
 **Name:** Kritika Ghimire
 
@@ -42,9 +41,9 @@ portfolio/
 ├── assets/
 ├── designs/
 └── data/
-```
 
----
+
+
 
 #  Features
 
@@ -58,13 +57,12 @@ portfolio/
 - Contact Section
 - Footer
 
----
+
 
 #  Project Status
 
 Currently under development.
 
----
 
 #  Developed By
 
